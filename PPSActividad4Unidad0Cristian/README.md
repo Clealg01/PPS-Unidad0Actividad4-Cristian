@@ -118,4 +118,4 @@ git config --global color.diff auto
    ```
 Estos comandos ajustan los colores de manera que Git aplique automáticamente el color adecuado al mostrar el estado del repositorio, las ramas, las interacciones y las diferencias entre archivos.
 
-## Configuración Inicial de Git
+## Creación del Proyecto y Repositorio en GitHub
