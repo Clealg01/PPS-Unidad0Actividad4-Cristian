@@ -57,7 +57,18 @@ Para imagenes con estilo centrado y tener una leyenda de imagen centrada y en cu
 </p>
 <p align="center"><em>Imagen 1: Clonar repositorio</em></p>
 ```
+2 imagenes juntas:
+```
+<div style="text-align: center;">
+    <img src="./images/solucion_cambiar_repositorio_remoto.png" alt="Descripción de la imagen 1" width="300">
+    <div style="font-style: italic; margin-top: 8px;">Leyenda de la imagen 1</div>
+</div>
 
+<div style="text-align: center;">
+    <img src="./images/solucion_cambiar_repositorio_remoto.png" alt="Descripción de la imagen 2" width="300">
+    <div style="font-style: italic; margin-top: 8px;">Leyenda de la imagen 2</div>
+</div>
+```
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------
 
