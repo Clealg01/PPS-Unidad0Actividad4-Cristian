@@ -191,19 +191,20 @@ Después de ejecutar estos comandos, tu proyecto debería estar disponible en Gi
 
 > Nota: Asegúrate de reemplazar ``TuNombreDeUsuario`` y ``TuNombre`` en los comandos y el nombre de la carpeta según corresponda a tu caso.
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-
 <p align="center">
-  <img src="./images/inicializar_repositorio.png" alt="Inicializar repositorio" width="300">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./images/inicializar_repositorio.png" alt="Inicializar repositorio" width="300">
+        <br><em>Imagen 3: Inicializar repositorio</em>
+      </td>
+      <td align="center">
+        <img src="./images/Subir%20README%20a%20repositorio%20remoto.png" alt="Subir archivo README.md a repositorio remoto" width="300">
+        <br><em>Imagen 4: Subir archivo README.md a repositorio remoto</em>
+      </td>
+    </tr>
+  </table>
 </p>
-
-*Imagen 3: Inicializar repositorio*
-
-<p align="center">
-  <img src="./images/Subir%20README%20a%20repositorio%20remoto.png" alt="Subir archivo README.md a repositorio remoto" width="300">
-</p>
-
-*Imagen 4: Subir archivo README.md a repositorio remoto*
 
 </div>
 
