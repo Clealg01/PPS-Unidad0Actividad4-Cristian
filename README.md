@@ -193,15 +193,17 @@ Después de ejecutar estos comandos, tu proyecto debería estar disponible en Gi
 
 <div style="display: flex; justify-content: center; gap: 20px;">
 
-<div style="text-align: center;">
-    <img src="./images/inicializar_repositorio.png" alt="Inicializar repositorio" width="300">
-    <div style="font-style: italic; margin-top: 8px;">Imagen 3: Inicializar repositorio</div>
-</div>
+<p align="center">
+  <img src="./images/inicializar_repositorio.png" alt="Inicializar repositorio" width="300">
+</p>
 
-<div style="text-align: center;">
-    <img src="./images/Subir README a repositorio remoto.png" alt="Subir archivo README.md a repositorio remoto" width="300">
-    <div style="font-style: italic; margin-top: 8px;">Imagen 4: Subir arhcivo README.md a repositorio remoto</div>
-</div>
+*Imagen 3: Inicializar repositorio*
+
+<p align="center">
+  <img src="./images/Subir%20README%20a%20repositorio%20remoto.png" alt="Subir archivo README.md a repositorio remoto" width="300">
+</p>
+
+*Imagen 4: Subir archivo README.md a repositorio remoto*
 
 </div>
 
