@@ -191,7 +191,7 @@ Después de ejecutar estos comandos, tu proyecto debería estar disponible en Gi
 
 > Nota: Asegúrate de reemplazar ``TuNombreDeUsuario`` y ``TuNombre`` en los comandos y el nombre de la carpeta según corresponda a tu caso.
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -204,7 +204,7 @@ Después de ejecutar estos comandos, tu proyecto debería estar disponible en Gi
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 </div>
 
